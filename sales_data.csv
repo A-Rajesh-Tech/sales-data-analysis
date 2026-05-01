@@ -1,0 +1,4 @@
+order_id,product,category,price,quantity,region,date
+1,Phone,Electronics,20000,2,South,2024-01-10
+2,Laptop,Electronics,50000,1,North,2024-01-12
+3,Shoes,Fashion,2000,3,West,2024-01-15
