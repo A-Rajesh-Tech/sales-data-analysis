@@ -30,3 +30,7 @@ Analyze sales data to find useful business insights.
 
 ## 👨‍💻 Author
 Rajesh (B.Tech Student)
+
+## 📷 Output Screenshot
+
+![Output](output.png)
