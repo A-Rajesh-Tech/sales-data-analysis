@@ -33,4 +33,4 @@ Rajesh (B.Tech Student)
 
 ## 📷 Output Screenshot
 
-![Output](output screenshot.png)
+![Output](outputscreenshot.png)
